@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Trampa.cs" />
     <Compile Include="Assets\Scripts\Boton.cs" />
+    <Compile Include="Assets\Scripts\Trampa2.cs" />
     <Compile Include="Assets\Scripts\Meta.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Compile Include="Assets\Scripts\Personaje.cs" />

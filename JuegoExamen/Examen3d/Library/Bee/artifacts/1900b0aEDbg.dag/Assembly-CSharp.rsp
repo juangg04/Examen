@@ -357,6 +357,7 @@
 "Assets/Scripts/Personaje.cs"
 "Assets/Scripts/Timer.cs"
 "Assets/Scripts/Trampa.cs"
+"Assets/Scripts/Trampa2.cs"
 -langversion:9.0
 
 /deterministic
